@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/grid.png</file>
+        <file>images/ball2.png</file>
+        <file>images/ball3.png</file>
+        <file>images/ball4.png</file>
+        <file>images/ball6.png</file>
+        <file>images/ball7.png</file>
+        <file>images/ball8.png</file>
+        <file>images/ball9.png</file>
+        <file>images/ball5.png</file>
+        <file>images/trans.jpg</file>
+        <file>images/info.png</file>
+        <file>images/win.png</file>
+        <file>images/csueb.png</file>
+        <file>images/help.png</file>
+        <file>images/icon.png</file>
+        <file>images/menu.jpg</file>
+    </qresource>
+</RCC>
